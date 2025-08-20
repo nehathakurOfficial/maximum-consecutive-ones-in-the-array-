@@ -1,5 +1,5 @@
-     class Solution {
-    ublic:
+    class Solution {
+    public:
     int findMaxConsecutiveOnes(vector<int>& nums) {
     int maxi = 0;
     int cnt = 0;
